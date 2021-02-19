@@ -34,12 +34,17 @@ header {
     color:salmon;
     padding: 75px 0;
     text-align: center;
+    
 }
 
 .columns {
     display: flex;
+    
+    padding: 5px;
+    
 }
 
 .column {
     margin: 0 10px;
+    border: 10px solid yellowgreen;
 }
